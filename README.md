@@ -1,7 +1,7 @@
-# Neural Network from Scratch - Assignment 3 (CSL7620)
+# Neural Network from Scratch (Without PyTorch or TensorFlow) - Assignment 3 (CSL7620)
 
 ## Overview
-This project implements a **feedforward neural network** from scratch in Python, following the specifications given in **CSL7620: Machine Learning** (AY 2023-24, Semester I). The network is trained on a **multi-class classification dataset**.
+This project implements a **feedforward neural network** from scratch in Python uisng Numpy only following the specifications given in **CSL7620: Machine Learning** (AY 2023-24, Semester I). The network is trained on a **multi-class classification dataset**.
 
 ## Dataset
 - The dataset consists of **70,000 images** belonging to **10 different object categories**.
