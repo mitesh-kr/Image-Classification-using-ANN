@@ -30,6 +30,16 @@ This project implements a **feedforward neural network** from scratch in Python,
     - **Trainable Parameters**: `111,146`
     - **Non-Trainable Parameters**: `7,840`
 
+## Results
+
+for 70:30 split test accuracy = 84.55 %
+
+for 80:20 split test accuracy = 85.94 %
+
+for 90:10 split test accuracy = 86.46 %
+
+
+
 ## Installation
 To set up the environment, install the required dependencies:
 
