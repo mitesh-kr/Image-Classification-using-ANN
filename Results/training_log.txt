@@ -1,0 +1,90 @@
+For train - test ratio 70:30
+Learning rate = 0.02, Epochs = 25, Batch size = 23
+The table shows loss and accuracy after each epoch on train data.
+Epoch: 1, Loss: 2.2879, Accuracy: 16.71%
+Epoch: 2, Loss: 1.8120, Accuracy: 37.16%
+Epoch: 3, Loss: 1.3174, Accuracy: 54.48%
+Epoch: 4, Loss: 1.0887, Accuracy: 61.08%
+Epoch: 5, Loss: 0.9552, Accuracy: 65.07%
+Epoch: 6, Loss: 0.8648, Accuracy: 67.94%
+Epoch: 7, Loss: 0.7937, Accuracy: 72.72%
+Epoch: 8, Loss: 0.7244, Accuracy: 75.34%
+Epoch: 9, Loss: 0.6711, Accuracy: 76.27%
+Epoch: 10, Loss: 0.6327, Accuracy: 77.24%
+Epoch: 11, Loss: 0.6008, Accuracy: 78.25%
+Epoch: 12, Loss: 0.5729, Accuracy: 79.15%
+Epoch: 13, Loss: 0.5486, Accuracy: 80.07%
+Epoch: 14, Loss: 0.5277, Accuracy: 80.73%
+Epoch: 15, Loss: 0.5098, Accuracy: 81.47%
+Epoch: 16, Loss: 0.4943, Accuracy: 82.23%
+Epoch: 17, Loss: 0.4810, Accuracy: 82.86%
+Epoch: 18, Loss: 0.4693, Accuracy: 83.35%
+Epoch: 19, Loss: 0.4588, Accuracy: 83.72%
+Epoch: 20, Loss: 0.4494, Accuracy: 84.15%
+Epoch: 21, Loss: 0.4408, Accuracy: 84.42%
+Epoch: 22, Loss: 0.4330, Accuracy: 84.70%
+Epoch: 23, Loss: 0.4258, Accuracy: 84.98%
+Epoch: 24, Loss: 0.4192, Accuracy: 85.23%
+Epoch: 25, Loss: 0.4131, Accuracy: 85.41%
+
+
+
+For train - test ratio 80:20
+Learning rate = 0.02, Epochs = 25, Batch size = 23
+The table shows loss and accuracy after each epoch on train data.
+Epoch: 1, Loss: 2.2793, Accuracy: 10.04%
+Epoch: 2, Loss: 1.6283, Accuracy: 42.23%
+Epoch: 3, Loss: 1.2001, Accuracy: 56.83%
+Epoch: 4, Loss: 1.0084, Accuracy: 63.17%
+Epoch: 5, Loss: 0.8893, Accuracy: 66.27%
+Epoch: 6, Loss: 0.8052, Accuracy: 68.94%
+Epoch: 7, Loss: 0.7248, Accuracy: 74.19%
+Epoch: 8, Loss: 0.6634, Accuracy: 76.15%
+Epoch: 9, Loss: 0.6197, Accuracy: 77.44%
+Epoch: 10, Loss: 0.5837, Accuracy: 78.72%
+Epoch: 11, Loss: 0.5532, Accuracy: 79.88%
+Epoch: 12, Loss: 0.5275, Accuracy: 80.81%
+Epoch: 13, Loss: 0.5060, Accuracy: 81.78%
+Epoch: 14, Loss: 0.4880, Accuracy: 82.58%
+Epoch: 15, Loss: 0.4729, Accuracy: 83.26%
+Epoch: 16, Loss: 0.4598, Accuracy: 83.84%
+Epoch: 17, Loss: 0.4483, Accuracy: 84.22%
+Epoch: 18, Loss: 0.4378, Accuracy: 84.62%
+Epoch: 19, Loss: 0.4283, Accuracy: 84.98%
+Epoch: 20, Loss: 0.4196, Accuracy: 85.33%
+Epoch: 21, Loss: 0.4117, Accuracy: 85.54%
+Epoch: 22, Loss: 0.4044, Accuracy: 85.81%
+Epoch: 23, Loss: 0.3977, Accuracy: 86.02%
+Epoch: 24, Loss: 0.3915, Accuracy: 86.22%
+Epoch: 25, Loss: 0.3857, Accuracy: 86.42%
+
+
+For train - test ratio 90:10
+Learning rate = 0.02, Epochs = 25, Batch size = 23
+The table shows loss and accuracy after each epoch on train data.
+Epoch: 1, Loss: 2.2674, Accuracy: 16.41%
+Epoch: 2, Loss: 1.4878, Accuracy: 44.84%
+Epoch: 3, Loss: 1.1127, Accuracy: 58.49%
+Epoch: 4, Loss: 0.9393, Accuracy: 66.08%
+Epoch: 5, Loss: 0.8320, Accuracy: 71.16%
+Epoch: 6, Loss: 0.7407, Accuracy: 74.61%
+Epoch: 7, Loss: 0.6692, Accuracy: 76.15%
+Epoch: 8, Loss: 0.6206, Accuracy: 77.46%
+Epoch: 9, Loss: 0.5810, Accuracy: 78.68%
+Epoch: 10, Loss: 0.5477, Accuracy: 79.90%
+Epoch: 11, Loss: 0.5201, Accuracy: 80.91%
+Epoch: 12, Loss: 0.4976, Accuracy: 82.04%
+Epoch: 13, Loss: 0.4793, Accuracy: 82.86%
+Epoch: 14, Loss: 0.4642, Accuracy: 83.51%
+Epoch: 15, Loss: 0.4511, Accuracy: 84.06%
+Epoch: 16, Loss: 0.4394, Accuracy: 84.45%
+Epoch: 17, Loss: 0.4287, Accuracy: 84.86%
+Epoch: 18, Loss: 0.4188, Accuracy: 85.23%
+Epoch: 19, Loss: 0.4096, Accuracy: 85.63%
+Epoch: 20, Loss: 0.4011, Accuracy: 85.93%
+Epoch: 21, Loss: 0.3933, Accuracy: 86.17%
+Epoch: 22, Loss: 0.3860, Accuracy: 86.41%
+Epoch: 23, Loss: 0.3794, Accuracy: 86.61%
+Epoch: 24, Loss: 0.3733, Accuracy: 86.77%
+Epoch: 25, Loss: 0.3676, Accuracy: 87.00%
+
