@@ -15,7 +15,6 @@ This project implements a **feedforward neural network** from scratch in Python 
 - **Output Layer**: Number of classes (Activation: Softmax)
 
 ## Implementation Details
-- **Bias**: Set to **1**.
 - **Train-Test Splits**: 70:30, 80:20, 90:10 (randomized).
 - **Activation Functions**:
   - Hidden Layers: **Sigmoid**
